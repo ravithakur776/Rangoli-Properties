@@ -457,9 +457,25 @@ h2.headline.wide {
   }
   .nav-toggle {
     display: flex;
+    position: relative;
+    z-index: 95;
   }
   .header-phone {
     display: none !important;
+  }
+}
+@media (max-width: 480px) {
+  .header-inner {
+    gap: 12px;
+  }
+  .header-actions {
+    gap: 10px;
+  }
+  .header-cta .cta-label {
+    display: none;
+  }
+  .header-cta {
+    padding: 12px;
   }
 }
 @media (min-width: 700px) {
