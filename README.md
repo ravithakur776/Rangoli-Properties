@@ -74,4 +74,3 @@ This is a static site, so any static host works:
 ## License
 
 Built for Rangoli Properties. All business content, copy, and branding belong to Rangoli Properties.
-
