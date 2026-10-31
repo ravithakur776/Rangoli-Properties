@@ -75,5 +75,3 @@ This is a static site, so any static host works:
 
 Built for Rangoli Properties. All business content, copy, and branding belong to Rangoli Properties.
 
-
-
